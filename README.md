@@ -11,8 +11,9 @@
 - I have **~5 years of work experience** in various roles and domains.
 
 ### 🌱 Education
-- **Master's graduate** in Engineering Management from **Stevens Institute of Technology, Hoboken, NJ (USA)**.
+- **Master of Engineering** in Engineering Management from **Stevens Institute of Technology, Hoboken, NJ (USA)**.
 - **Graduate Certification** in Software Engineering from **Stevens Institute of Technology, Hoboken, NJ (USA)**
+- **Bachelor of Engineering** in Information Technology from **Don Bosco Institute of Technology, Mumbai, MH (India)**
 
 ### 🛠️ Tech Stack
 - Business Analytics & Business Process Modeling
